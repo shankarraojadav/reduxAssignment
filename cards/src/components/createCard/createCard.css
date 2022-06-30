@@ -1,0 +1,12 @@
+.create_card {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+}
+
+.create_card > input {
+    width: 300px;
+    height: 25px;
+    margin: 10px;
+    align-self: center;
+}
